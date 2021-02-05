@@ -32,7 +32,7 @@ Some challenges in the project I encountered were:
     2. It would be advisable for Louise to not schedule a campaign for December, since based on our data there is a much lower amount of successful campaigns.
 
 - What can you conclude about the Outcomes based on Goals?
-<br>Based on the "Outcomes based on Goals", we can reasonably advise Louise to not set her campaign goal too high. 
+<br>Based on the "Outcomes based on Goals", we can reasonably advise Louise to not set her campaign goal too high. There is a fairly obvious trend from campaigns set at $15,000 - that success rate dips below failure rate. However, based on the volume of the data collected and the strength of the relationship illustrated in the graph, it seems as though the outcome may be more favorable for Louise's goal if she sets it lower.
 
 
 - What are some limitations of this dataset?
